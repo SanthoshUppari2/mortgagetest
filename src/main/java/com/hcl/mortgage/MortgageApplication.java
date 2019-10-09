@@ -5,6 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class MortgageApplication {
+	
+	//Comments added by dev2
+	//comments added by dev1
 
 	public static void main(String[] args) {
 		SpringApplication.run(MortgageApplication.class, args);
