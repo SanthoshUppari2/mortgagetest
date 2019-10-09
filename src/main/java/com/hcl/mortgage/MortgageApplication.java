@@ -9,5 +9,7 @@ public class MortgageApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MortgageApplication.class, args);
 	}
+	
+	//comments by dev1
 
 }
